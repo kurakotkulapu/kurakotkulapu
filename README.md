@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kurakotkulapu
-- 👀 I’m interested in ...sleeping
+- 👀 I’m interested in ...building on blockchain
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...blockchain
 - 📫 How to reach me ...@RisingforceO
